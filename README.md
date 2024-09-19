@@ -35,7 +35,7 @@
 " alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Easy Calculator</h3>
+<h3 align="center">Weather</h3>
 
   <p align="center">
     Feel free to try out my weather app before it is published to ios and android
@@ -83,7 +83,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-I wanted to create a simple calculator application that is easy to navigate around and use i coded the application in python and switched to tkinter and then kivy. coded in visual studio and pycharm.
+I wanted to create a weather application that is visually pleasing and easy to navigate, I will release updates on this app in the future to better improve it. 
 
 
 
@@ -94,13 +94,13 @@ I wanted to create a simple calculator application that is easy to navigate arou
 
 ### Built With
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
@@ -111,7 +111,7 @@ I wanted to create a simple calculator application that is easy to navigate arou
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Simply download any of the versions you would like the highest one is the latest version of the application.
+Simply download the APK file and enjoy. Please note that this app is only working on Android as of now.
 
 ### Prerequisites
 
@@ -128,15 +128,6 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Maths games to test your knowledege. 
-- [ ] Practice questions.
-- [ ] Easy number input with 5 methods to choose from.
 
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
